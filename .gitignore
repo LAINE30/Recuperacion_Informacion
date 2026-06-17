@@ -223,3 +223,14 @@ ver_subject.py
 data/libros_gutenberg 
 data/gutenberg_top100
 Examen1Bim/data
+
+
+data/beir_datasets/scifact.zip
+data/beir_datasets/scifact/corpus.jsonl
+data/beir_datasets/scifact/queries.jsonl
+data/beir_datasets/scifact/qrels/test.tsv
+data/beir_datasets/scifact/qrels/train.tsv
+Examen1Bim/embeddings_mpnet.npy
+Examen1Bim/embeddings_pca_comparison.png
+Examen1Bim/embeddings.npy
+Examen1Bim/embeddings.npy
